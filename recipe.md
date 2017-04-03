@@ -11,5 +11,3 @@ here are instructions:
     1. cook it
     2. eat it
 
-[here](http//:lol.com)
-waduawdnawdanwd
